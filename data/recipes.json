@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "title": "Grilled Cheese Sandwich",
+        "recipe": "Butter one side of two slices of bread. Place cheese between unbuttered sides and cook in a skillet until golden brown.",
+        "ingredients": ["Bread", "Cheese", "Butter"]
+    },
+    {
+        "id": 2,
+        "title": "Spaghetti Aglio e Olio",
+        "recipe": "Cook pasta. Sauté garlic in olive oil, add red pepper flakes, and toss with pasta.",
+        "ingredients": ["Pasta", "Garlic", "Olive Oil", "Red Pepper Flakes"]
+    },
+    {
+        "id": 3,
+        "title": "Scrambled Eggs with Spinach",
+        "recipe": "Whisk eggs, cook in a skillet with spinach, salt, and pepper until done.",
+        "ingredients": ["Eggs", "Spinach", "Salt", "Pepper"]
+    },
+    {
+        "id": 4,
+        "title": "Tomato Basil Bruschetta",
+        "recipe": "Top toasted bread with diced tomato, basil, and olive oil.",
+        "ingredients": ["Tomato", "Bread", "Basil", "Olive Oil"]
+    },
+    {
+        "id": 5,
+        "title": "Greek Salad",
+        "recipe": "Combine cucumber, tomato, feta cheese, and olive oil.",
+        "ingredients": ["Cucumber", "Tomato", "Feta Cheese", "Olive Oil"]
+    },
+    {
+        "id": 6,
+        "title": "Peanut Butter Banana Toast",
+        "recipe": "Spread peanut butter on toast and top with sliced banana.",
+        "ingredients": ["Bread", "Peanut Butter", "Banana"]
+    },
+    {
+        "id": 7,
+        "title": "Veggie Stir-Fry",
+        "recipe": "Sauté bell pepper and onion in soy sauce.",
+        "ingredients": ["Bell Pepper", "Onion", "Soy Sauce"]
+    },
+    {
+        "id": 8,
+        "title": "Caprese Salad",
+        "recipe": "Layer tomato slices, mozzarella cheese, and basil. Drizzle with balsamic glaze.",
+        "ingredients": ["Tomato", "Mozzarella Cheese", "Basil", "Balsamic Glaze"]
+    },
+    {
+        "id": 9,
+        "title": "Ham and Cheese Omelet",
+        "recipe": "Cook eggs in a skillet, add ham and cheese, and fold.",
+        "ingredients": ["Eggs", "Ham", "Cheese"]
+    },
+    {
+        "id": 10,
+        "title": "Tuna Salad Sandwich",
+        "recipe": "Mix tuna with mayo and spread on bread with lettuce.",
+        "ingredients": ["Tuna", "Mayo", "Bread", "Lettuce"]
+    },
+    {
+        "id": 11,
+        "title": "Guacamole",
+        "recipe": "Mash avocado with diced tomato, lime juice, and salt.",
+        "ingredients": ["Avocado", "Tomato", "Lime", "Salt"]
+    },
+    {
+        "id": 12,
+        "title": "Pasta with Marinara Sauce",
+        "recipe": "Cook pasta and toss with heated tomato sauce and Parmesan cheese.",
+        "ingredients": ["Pasta", "Tomato Sauce", "Parmesan Cheese"]
+    },
+    {
+        "id": 13,
+        "title": "Creamy Mushroom Risotto",
+        "recipe": "Cook rice with sautéed mushroom, butter, and chicken broth.",
+        "ingredients": ["Rice", "Mushroom", "Butter", "Chicken Broth"]
+    },
+    {
+        "id": 14,
+        "title": "Chicken Caesar Salad",
+        "recipe": "Toss romaine lettuce with Caesar dressing and top with grilled chicken.",
+        "ingredients": ["Chicken Breast", "Romaine Lettuce", "Caesar Dressing"]
+    },
+    {
+        "id": 15,
+        "title": "Pancakes with Maple Syrup",
+        "recipe": "Prepare pancake mix with milk and cook. Serve with maple syrup.",
+        "ingredients": ["Pancake Mix", "Milk", "Maple Syrup"]
+    },
+    {
+        "id": 16,
+        "title": "Hummus and Veggie Wrap",
+        "recipe": "Spread hummus on tortilla and fill with sliced bell pepper and cucumber.",
+        "ingredients": ["Hummus", "Tortilla", "Bell Pepper", "Cucumber"]
+    },
+    {
+        "id": 17,
+        "title": "Lemon Garlic Shrimp",
+        "recipe": "Sauté shrimp with lemon, garlic, and butter until cooked.",
+        "ingredients": ["Shrimp", "Lemon", "Garlic", "Butter"]
+    },
+    {
+        "id": 18,
+        "title": "Black Bean Quesadilla",
+        "recipe": "Fill tortilla with black beans, cheese, and salsa. Cook until crispy.",
+        "ingredients": ["Tortilla", "Black Beans", "Cheese", "Salsa"]
+    },
+    {
+        "id": 19,
+        "title": "Baked Potato with Sour Cream",
+        "recipe": "Bake potato and top with sour cream and chives.",
+        "ingredients": ["Potato", "Sour Cream", "Chives"]
+    },
+    {
+        "id": 20,
+        "title": "Apple Cinnamon Oatmeal",
+        "recipe": "Cook oats with milk, add diced apple and cinnamon.",
+        "ingredients": ["Oats", "Apple", "Cinnamon", "Milk"]
+    },
+    {
+        "id": 21,
+        "title": "Chili Con Carne",
+        "recipe": "Cook ground beef with tomato sauce, kidney beans, and chili powder.",
+        "ingredients": ["Ground Beef", "Tomato Sauce", "Kidney Beans", "Chili Powder"]
+    },
+    {
+        "id": 22,
+        "title": "Chicken and Vegetable Skewers",
+        "recipe": "Thread chicken, bell pepper, and zucchini onto skewers. Grill with BBQ sauce.",
+        "ingredients": ["Chicken Breast", "Bell Pepper", "Zucchini", "BBQ Sauce"]
+    },
+    {
+        "id": 23,
+        "title": "Creamy Tomato Soup",
+        "recipe": "Heat tomato soup and stir in cream and basil.",
+        "ingredients": ["Tomato Soup", "Cream", "Basil"]
+    },
+    {
+        "id": 24,
+        "title": "Spinach and Feta Stuffed Chicken Breast",
+        "recipe": "Stuff chicken breast with spinach and feta cheese. Bake until cooked.",
+        "ingredients": ["Chicken Breast", "Spinach", "Feta Cheese"]
+    },
+    {
+        "id": 25,
+        "title": "Tacos with Salsa",
+        "recipe": "Fill tortillas with ground beef, cheese, and salsa.",
+        "ingredients": ["Tortilla", "Ground Beef", "Cheese", "Salsa"]
+    },
+    {
+        "id": 26,
+        "title": "Honey Mustard Chicken",
+        "recipe": "Bake chicken breast with a mixture of honey and mustard.",
+        "ingredients": ["Chicken Breast", "Honey", "Mustard"]
+    },
+    {
+        "id": 27,
+        "title": "BBQ Chicken Pizza",
+        "recipe": "Top pizza dough with BBQ sauce, chicken, and red onion. Bake until done.",
+        "ingredients": ["Pizza Dough", "BBQ Sauce", "Chicken", "Red Onion"]
+    },
+    {
+        "id": 28,
+        "title": "Strawberry Spinach Salad",
+        "recipe": "Toss spinach with sliced strawberries, feta cheese, and balsamic glaze.",
+        "ingredients": ["Spinach", "Strawberry", "Feta Cheese", "Balsamic Glaze"]
+    },
+    {
+        "id": 29,
+        "title": "Creamy Garlic Pasta",
+        "recipe": "Cook pasta and toss with sautéed garlic, cream, and Parmesan cheese.",
+        "ingredients": ["Pasta", "Garlic", "Cream", "Parmesan Cheese"]
+    },
+    {
+        "id": 30,
+        "title": "Veggie Omelet",
+        "recipe": "Cook eggs with bell pepper, onion, and tomato in a skillet.",
+        "ingredients": ["Eggs", "Bell Pepper", "Onion", "Tomato"]
+    },
+    {
+        "id": 31,
+        "title": "Lemon Herb Roasted Chicken",
+        "recipe": "Roast chicken with lemon, rosemary, and olive oil.",
+        "ingredients": ["Chicken", "Lemon", "Rosemary", "Olive Oil"]
+    },
+    {
+        "id": 32,
+        "title": "Avocado Toast with Egg",
+        "recipe": "Top toast with mashed avocado and a cooked egg. Season with salt.",
+        "ingredients": ["Bread", "Avocado", "Egg", "Salt"]
+    },
+    {
+        "id": 33,
+        "title": "Teriyaki Salmon",
+        "recipe": "Marinate salmon in teriyaki sauce and bake. Sprinkle with sesame seeds.",
+        "ingredients": ["Salmon Fillet", "Teriyaki Sauce", "Sesame Seeds"]
+    },
+    {
+        "id": 34,
+        "title": "Bean Burritos",
+        "recipe": "Fill tortillas with refried beans, cheese, and salsa.",
+        "ingredients": ["Tortilla", "Refried Beans", "Cheese", "Salsa"]
+    },
+    {
+        "id": 35,
+        "title": "Apple Walnut Salad",
+        "recipe": "Toss mixed greens with sliced apple, walnut, and balsamic vinaigrette.",
+        "ingredients": ["Apple", "Walnut", "Mixed Greens", "Balsamic Vinaigrette"]
+    },
+    {
+        "id": 36,
+        "title": "Cheesy Broccoli Rice",
+        "recipe": "Cook rice with broccoli and stir in cheddar cheese and butter.",
+        "ingredients": ["Rice", "Broccoli", "Cheddar Cheese", "Butter"]
+    },
+    {
+        "id": 37,
+        "title": "Mediterranean Quinoa Salad",
+        "recipe": "Mix quinoa with cucumber, tomato, and feta cheese.",
+        "ingredients": ["Quinoa", "Cucumber", "Tomato", "Feta Cheese"]
+    },
+    {
+        "id": 38,
+        "title": "Lemon Pepper Tilapia",
+        "recipe": "Season tilapia with lemon pepper and bake with olive oil.",
+        "ingredients": ["Tilapia Fillet", "Lemon Pepper Seasoning", "Olive Oil"]
+    },
+    {
+        "id": 39,
+        "title": "Blueberry Pancakes",
+        "recipe": "Add blueberries to pancake mix and cook. Serve with maple syrup.",
+        "ingredients": ["Pancake Mix", "Blueberries", "Maple Syrup"]
+    },
+    {
+        "id": 40,
+        "title": "Pesto Pasta",
+        "recipe": "Cook pasta and toss with pesto sauce and cherry tomatoes. Top with pine nuts.",
+        "ingredients": ["Pasta", "Pesto Sauce", "Cherry Tomatoes", "Pine Nuts"]
+    },
+    {
+        "id": 41,
+        "title": "Chicken Caesar Wrap",
+        "recipe": "Fill tortilla with chicken, romaine lettuce, and Caesar dressing.",
+        "ingredients": ["Chicken", "Romaine Lettuce", "Caesar Dressing", "Tortilla"]
+    },
+    {
+        "id": 42,
+        "title": "Cucumber Tomato Salad",
+        "recipe": "Mix cucumber, tomato, and red onion with Italian dressing.",
+        "ingredients": ["Cucumber", "Tomato", "Red Onion", "Italian Dressing"]
+    },
+    {
+        "id": 43,
+        "title": "Sausage and Pepper Skillet",
+        "recipe": "Sauté sausage with bell pepper and onion in olive oil.",
+        "ingredients": ["Sausage", "Bell Pepper", "Onion", "Olive Oil"]
+    },
+    {
+        "id": 44,
+        "title": "Creamy Mushroom Pasta",
+        "recipe": "Cook pasta and toss with sautéed mushrooms, cream, and garlic.",
+        "ingredients": ["Pasta", "Mushroom", "Cream", "Garlic"]
+    },
+    {
+        "id": 45,
+        "title": "Caprese Stuffed Avocado",
+        "recipe": "Fill avocado halves with diced tomato, mozzarella, and balsamic glaze.",
+        "ingredients": ["Avocado", "Tomato", "Mozzarella Cheese", "Balsamic Glaze"]
+    },
+    {
+        "id": 46,
+        "title": "Turkey Club Sandwich",
+        "recipe": "Layer bread with turkey, bacon, and lettuce.",
+        "ingredients": ["Bread", "Turkey", "Bacon", "Lettuce"]
+    },
+    {
+        "id": 47,
+        "title": "Ratatouille",
+        "recipe": "Bake sliced eggplant, zucchini, and tomato with olive oil.",
+        "ingredients": ["Eggplant", "Zucchini", "Tomato", "Olive Oil"]
+    },
+    {
+        "id": 48,
+        "title": "Sweet and Sour Meatballs",
+        "recipe": "Cook ground beef meatballs with pineapple, bell pepper, and sweet and sour sauce.",
+        "ingredients": ["Ground Beef", "Pineapple", "Bell Pepper", "Sweet and Sour Sauce"]
+    },
+    {
+        "id": 49,
+        "title": "Broccoli Cheddar Soup",
+        "recipe": "Cook broccoli with chicken broth, onion, and cheddar cheese.",
+        "ingredients": ["Broccoli", "Cheddar Cheese", "Chicken Broth", "Onion"]
+    },
+    {
+        "id": 50,
+        "title": "Tuna Pasta Salad",
+        "recipe": "Mix pasta with tuna, mayo, and celery.",
+        "ingredients": ["Pasta", "Tuna", "Mayo", "Celery"]
+    },
+    {
+        "id": 51,
+        "title": "Lemon Herb Grilled Vegetables",
+        "recipe": "Grill assorted vegetables with lemon, herbs, and olive oil.",
+        "ingredients": ["Assorted Vegetables", "Lemon", "Herbs", "Olive Oil"]
+    },
+    {
+        "id": 52,
+        "title": "Spinach Artichoke Dip",
+        "recipe": "Mix spinach, artichoke hearts, cream cheese, and garlic. Bake until bubbly.",
+        "ingredients": ["Spinach", "Artichoke Hearts", "Cream Cheese", "Garlic"]
+    },
+    {
+        "id": 53,
+        "title": "Greek Yogurt Parfait",
+        "recipe": "Layer Greek yogurt with granola, berries, and honey.",
+        "ingredients": ["Greek Yogurt", "Granola", "Berries", "Honey"]
+    },
+    {
+        "id": 54,
+        "title": "Bacon Wrapped Asparagus",
+        "recipe": "Wrap asparagus in bacon and bake with olive oil and salt.",
+        "ingredients": ["Asparagus", "Bacon", "Olive Oil", "Salt"]
+    },
+    {
+        "id": 55,
+        "title": "Eggplant Parmesan",
+        "recipe": "Layer fried eggplant slices with tomato sauce and mozzarella. Bake until bubbly.",
+        "ingredients": ["Eggplant", "Tomato Sauce", "Mozzarella Cheese", "Parmesan Cheese"]
+    },
+    {
+        "id": 56,
+        "title": "Beef Stir-Fry",
+        "recipe": "Sauté beef strips with soy sauce, broccoli, and carrot.",
+        "ingredients": ["Beef Strips", "Soy Sauce", "Broccoli", "Carrot"]
+    },
+    {
+        "id": 57,
+        "title": "Lemon Garlic Shrimp Pasta",
+        "recipe": "Cook shrimp with garlic and lemon, and toss with pasta.",
+        "ingredients": ["Shrimp", "Pasta", "Lemon", "Garlic"]
+    },
+    {
+        "id": 58,
+        "title": "Chicken and Rice Soup",
+        "recipe": "Cook chicken with rice, carrot, and chicken broth.",
+        "ingredients": ["Chicken", "Rice", "Carrot", "Chicken Broth"]
+    },
+    {
+        "id": 59,
+        "title": "Cinnamon Apple Oatmeal",
+        "recipe": "Cook oats with milk and add diced apple and cinnamon.",
+        "ingredients": ["Oats", "Apple", "Cinnamon", "Milk"]
+    },
+    {
+        "id": 60,
+        "title": "Veggie Frittata",
+        "recipe": "Cook eggs with bell pepper, onion, and spinach in a skillet.",
+        "ingredients": ["Eggs", "Bell Pepper", "Onion", "Spinach"]
+    },
+    {
+        "id": 61,
+        "title": "Cranberry Walnut Chicken Salad",
+        "recipe": "Mix cooked chicken with cranberries, walnuts, and mayo.",
+        "ingredients": ["Chicken", "Cranberries", "Walnuts", "Mayo"]
+    },
+    {
+        "id": 62,
+        "title": "Tofu Stir-Fry",
+        "recipe": "Sauté tofu with mixed vegetables, soy sauce, and ginger.",
+        "ingredients": ["Tofu", "Mixed Vegetables", "Soy Sauce", "Ginger"]
+    },
+    {
+        "id": 63,
+        "title": "Balsamic Glazed Brussels Sprouts",
+        "recipe": "Roast Brussels sprouts with balsamic vinegar, olive oil, and honey.",
+        "ingredients": ["Brussels Sprouts", "Balsamic Vinegar", "Olive Oil", "Honey"]
+    },
+    {
+        "id": 64,
+        "title": "Shrimp Tacos",
+        "recipe": "Fill tortillas with shrimp, cabbage, and avocado.",
+        "ingredients": ["Shrimp", "Tortillas", "Cabbage", "Avocado"]
+    },
+    {
+        "id": 65,
+        "title": "Sautéed Garlic Green Beans",
+        "recipe": "Sauté green beans with garlic, olive oil, and salt.",
+        "ingredients": ["Green Beans", "Garlic", "Olive Oil", "Salt"]
+    },
+    {
+        "id": 66,
+        "title": "Buffalo Cauliflower Bites",
+        "recipe": "Roast cauliflower with buffalo sauce. Serve with ranch dressing and celery.",
+        "ingredients": ["Cauliflower", "Buffalo Sauce", "Ranch Dressing", "Celery"]
+    },
+    {
+        "id": 67,
+        "title": "Tomato Basil Mozzarella Skewers",
+        "recipe": "Skewer tomato, mozzarella, and basil. Drizzle with balsamic glaze.",
+        "ingredients": ["Tomato", "Mozzarella Cheese", "Basil", "Balsamic Glaze"]
+    },
+    {
+        "id": 68,
+        "title": "Pineapple Chicken",
+        "recipe": "Cook chicken with pineapple, bell pepper, and soy sauce.",
+        "ingredients": ["Chicken", "Pineapple", "Bell Pepper", "Soy Sauce"]
+    },
+    {
+        "id": 69,
+        "title": "Mango Salsa",
+        "recipe": "Mix diced mango with red onion, cilantro, and lime juice.",
+        "ingredients": ["Mango", "Red Onion", "Cilantro", "Lime Juice"]
+    },
+    {
+        "id": 70,
+        "title": "Stuffed Bell Peppers",
+        "recipe": "Fill bell peppers with ground beef, rice, and tomato sauce. Bake until cooked.",
+        "ingredients": ["Bell Pepper", "Ground Beef", "Rice", "Tomato Sauce"]
+    },
+    {
+        "id": 71,
+        "title": "Chicken Alfredo",
+        "recipe": "Cook pasta and toss with cooked chicken and Alfredo sauce.",
+        "ingredients": ["Pasta", "Chicken", "Alfredo Sauce"]
+    },
+    {
+        "id": 72,
+        "title": "Spinach Mushroom Quiche",
+        "recipe": "Bake a mixture of eggs, spinach, and mushrooms in a pie crust.",
+        "ingredients": ["Eggs", "Spinach", "Mushroom", "Pie Crust"]
+    },
+    {
+        "id": 73,
+        "title": "BBQ Pulled Pork Sandwich",
+        "recipe": "Cook pork with BBQ sauce and serve on a bun with coleslaw.",
+        "ingredients": ["Pork", "BBQ Sauce", "Bun", "Coleslaw"]
+    },
+    {
+        "id": 74,
+        "title": "Chocolate Banana Smoothie",
+        "recipe": "Blend banana, milk, cocoa powder, and honey.",
+        "ingredients": ["Banana", "Milk", "Cocoa Powder", "Honey"]
+    },
+    {
+        "id": 75,
+        "title": "Beet and Goat Cheese Salad",
+        "recipe": "Toss mixed greens with roasted beets, goat cheese, and walnuts.",
+        "ingredients": ["Beets", "Goat Cheese", "Walnuts", "Mixed Greens"]
+    },
+    {
+        "id": 76,
+        "title": "Shrimp Scampi",
+        "recipe": "Cook shrimp with garlic, lemon, and butter. Serve over pasta.",
+        "ingredients": ["Shrimp", "Garlic", "Lemon", "Butter"]
+    },
+    {
+        "id": 77,
+        "title": "Pomegranate and Avocado Salad",
+        "recipe": "Mix avocado, pomegranate seeds, and mixed greens with a vinaigrette.",
+        "ingredients": ["Avocado", "Pomegranate Seeds", "Mixed Greens", "Vinaigrette"]
+    },
+    {
+        "id": 78,
+        "title": "Steak Fajitas",
+        "recipe": "Cook steak with bell pepper and onion. Serve in tortillas.",
+        "ingredients": ["Steak", "Bell Pepper", "Onion", "Tortillas"]
+    },
+    {
+        "id": 79,
+        "title": "Lentil Soup",
+        "recipe": "Cook lentils with carrot, celery, and vegetable broth.",
+        "ingredients": ["Lentils", "Carrot", "Celery", "Vegetable Broth"]
+    },
+    {
+        "id": 80,
+        "title": "Egg Drop Soup",
+        "recipe": "Heat chicken broth and stir in beaten eggs. Add green onion.",
+        "ingredients": ["Chicken Broth", "Eggs", "Green Onion"]
+    },
+    {
+        "id": 81,
+        "title": "Zucchini Fritters",
+        "recipe": "Mix grated zucchini with egg and flour. Fry in olive oil.",
+        "ingredients": ["Zucchini", "Egg", "Flour", "Olive Oil"]
+    },
+    {
+        "id": 82,
+        "title": "Caprese Panini",
+        "recipe": "Layer tomato, mozzarella, and basil on bread. Press and grill.",
+        "ingredients": ["Tomato", "Mozzarella Cheese", "Basil", "Bread"]
+    },
+    {
+        "id": 83,
+        "title": "Pumpkin Soup",
+        "recipe": "Cook pumpkin with onion, chicken broth, and cream. Blend until smooth.",
+        "ingredients": ["Pumpkin", "Onion", "Chicken Broth", "Cream"]
+    },
+    {
+        "id": 84,
+        "title": "Ham and Cheese Croissant",
+        "recipe": "Fill croissant with ham and cheese. Bake until cheese is melted.",
+        "ingredients": ["Croissant", "Ham", "Cheese"]
+    },
+    {
+        "id": 85,
+        "title": "Lemon Asparagus Pasta",
+        "recipe": "Cook pasta with asparagus and toss with lemon and Parmesan.",
+        "ingredients": ["Pasta", "Asparagus", "Lemon", "Parmesan Cheese"]
+    },
+    {
+        "id": 86,
+        "title": "Strawberry Spinach Smoothie",
+        "recipe": "Blend spinach, strawberries, and almond milk.",
+        "ingredients": ["Spinach", "Strawberries", "Almond Milk"]
+    },
+    {
+        "id": 87,
+        "title": "Egg and Cheese Breakfast Burrito",
+        "recipe": "Fill tortilla with scrambled eggs and cheese. Wrap and cook until warm.",
+        "ingredients": ["Tortilla", "Eggs", "Cheese"]
+    },
+    {
+        "id": 88,
+        "title": "Baked Ziti",
+        "recipe": "Mix cooked ziti with marinara sauce and mozzarella. Bake until bubbly.",
+        "ingredients": ["Ziti", "Marinara Sauce", "Mozzarella Cheese"]
+    },
+    {
+        "id": 89,
+        "title": "Spicy Chicken Wings",
+        "recipe": "Bake chicken wings with hot sauce and butter.",
+        "ingredients": ["Chicken Wings", "Hot Sauce", "Butter"]
+    },
+    {
+        "id": 90,
+        "title": "Vegetable Curry",
+        "recipe": "Cook mixed vegetables with coconut milk, curry powder, and ginger.",
+        "ingredients": ["Mixed Vegetables", "Coconut Milk", "Curry Powder", "Ginger"]
+    },
+    {
+        "id": 91,
+        "title": "Tuna Avocado Salad",
+        "recipe": "Mix tuna with avocado, lime juice, and cilantro.",
+        "ingredients": ["Tuna", "Avocado", "Lime Juice", "Cilantro"]
+    },
+    {
+        "id": 92,
+        "title": "Baked Chicken Parmesan",
+        "recipe": "Bake chicken with marinara sauce and mozzarella. Serve over pasta.",
+        "ingredients": ["Chicken", "Marinara Sauce", "Mozzarella Cheese", "Pasta"]
+    },
+    {
+        "id": 93,
+        "title": "Balsamic Glazed Salmon",
+        "recipe": "Bake salmon with balsamic vinegar, honey, and garlic.",
+        "ingredients": ["Salmon", "Balsamic Vinegar", "Honey", "Garlic"]
+    },
+    {
+        "id": 94,
+        "title": "Sweet Potato Fries",
+        "recipe": "Bake sweet potato strips with olive oil and salt.",
+        "ingredients": ["Sweet Potato", "Olive Oil", "Salt"]
+    },
+    {
+        "id": 95,
+        "title": "Tomato Basil Pasta",
+        "recipe": "Cook pasta with cherry tomatoes and basil. Toss with olive oil and Parmesan.",
+        "ingredients": ["Pasta", "Cherry Tomatoes", "Basil", "Olive Oil", "Parmesan Cheese"]
+    },
+    {
+        "id": 96,
+        "title": "Garlic Butter Shrimp",
+        "recipe": "Cook shrimp with garlic and butter.",
+        "ingredients": ["Shrimp", "Garlic", "Butter"]
+    },
+    {
+        "id": 97,
+        "title": "Roasted Red Pepper Hummus",
+        "recipe": "Blend chickpeas with roasted red pepper, tahini, and lemon juice.",
+        "ingredients": ["Chickpeas", "Roasted Red Pepper", "Tahini", "Lemon Juice"]
+    },
+    {
+        "id": 98,
+        "title": "Egg Salad Sandwich",
+        "recipe": "Mix hard-boiled eggs with mayo and mustard. Spread on bread.",
+        "ingredients": ["Eggs", "Mayo", "Mustard", "Bread"]
+    },
+    {
+        "id": 99,
+        "title": "Peach Mango Smoothie",
+        "recipe": "Blend peach, mango, and orange juice.",
+        "ingredients": ["Peach", "Mango", "Orange Juice"]
+    },
+    {
+        "id": 100,
+        "title": "Zucchini Noodles with Pesto",
+        "recipe": "Toss zucchini noodles with pesto sauce and cherry tomatoes.",
+        "ingredients": ["Zucchini Noodles", "Pesto Sauce", "Cherry Tomatoes"]
+    }
+]
